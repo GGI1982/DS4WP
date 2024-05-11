@@ -1,11 +1,11 @@
-# A docker stak made for wordpress
-## based on :
+# A docker stack made for wordpress
 
-mariadb (latest)
-phpMyAdmin (latest)
-nginx (latest)
-Wordpress (latest)
-wodby/varnish (latest)
+**This docker copose stack is based on :**
 
-Traefik as front router (docker compose project will be soon published)
+ - mariadb (latest)
+ - phpMyAdmin (latest)
+ - nginx (latest)
+ - Wordpress (latest)
+ - wodby/varnish (latest)
+ - Traefik as front router (docker compose project will be soon published)
 
